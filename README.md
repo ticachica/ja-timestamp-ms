@@ -12,9 +12,9 @@ Created a timestamp microservice for Free Code Camp [exercise](https://www.freec
 
 Example usage:
 
-`https://timestamp-ms.herokuapp.com/December%2015,%202015`
+`https://ja-timestamp-ms.glitch.me/December%2015,%202015`
 
-`https://timestamp-ms.herokuapp.com/1450137600`
+`https://ja-timestamp-ms.glitch.me/1450137600`
 
 Example output:
 
